@@ -49,4 +49,4 @@ Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Author
 
-Built by Sable Reiko-1. If you use this, break it, or improve it — I want to hear about it: [CONTACT/LINK].
+Built by Sable Reiko-1. If you use this, break it, or improve it — I want to hear about it: Theobliviax@gmail.com.
