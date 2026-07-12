@@ -74,6 +74,6 @@ That block has outlived context windows, platform migrations, and model upgrades
 
 None of these are game problems. Persona stability is instruction adherence over long horizons. The lore split is context architecture. The population bug is silent state corruption. The save state is checkpointing. A persistent RPG is simply a test environment where every one of these failures announces itself in costume, immediately, to a user who is paying very close attention.
 
-The framework is public, free, and designed to be filled in with your own world: **[REPO LINK]**. Take the machinery. Break it in new ways. Tell me how.
+The framework is public, free, and designed to be filled in with your own world: **[(https://github.com/SableReiko/Text-based-rpg-claude/blob/main/persistent-world-gm.md)]**. Take the machinery. Break it in new ways. Tell me how.
 
 The garden, of course, stays mine.
